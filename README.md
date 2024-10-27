@@ -44,6 +44,13 @@
 
          npm start
 
-         For Example :   E:\temporary\hello-world>npm start 
+         For Example :   E:\temporary\hello-world>npm start
+   
+
+5) Tech Stack Version
+
+   5.1 -  Node.js : v20.18.0
+
+   5.5 -  React :  18.3.1
    
 
