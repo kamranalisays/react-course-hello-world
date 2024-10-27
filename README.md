@@ -16,10 +16,9 @@
 
    2.2 -  Download from website: https://nodejs.org/en and install it
 
-   2.3 -  React Version 18.3.1
+  
 
            
-   
 
 3) How to setup the project
 
