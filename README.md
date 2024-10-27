@@ -10,13 +10,23 @@
             npx create-react-app hello-world 
 
 
-3) How to install and use it
+2) Tools & Technologies
+
+3) How to setup the project
 
     2.1 - You have to clone the project.
 
-    2.2 - npm install
+    2.2 - After cloning the repo you have to install node modules.
+
+         Step-1 Open the terminal and change the directory to hello-world
+
+         Step-2 Install the node modules by the following command
+
+                npm start npm install
+
+               For Example :   E:\temporary\hello-world> 
 
 
 
-4) Key features and technologies used
+4) How to run the project
 
