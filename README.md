@@ -31,9 +31,9 @@
 
          Step-2 Install the node modules by the following command
 
-                npm start npm install
+                 npm install
 
-               For Example :   E:\temporary\hello-world> 
+               For Example :   E:\temporary\hello-world> npm install
 
 
 
