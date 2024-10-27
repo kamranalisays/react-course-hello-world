@@ -12,6 +12,15 @@
 
 2) Tools & Technologies
 
+   2.1 -  Node.js v20.18.0 used at the time building the project
+
+   2.2 -  Download from website: https://nodejs.org/en and install it
+
+   2.3 -  React Version 18.3.1
+
+           
+   
+
 3) How to setup the project
 
     2.1 - You have to clone the project.
@@ -29,4 +38,13 @@
 
 
 4) How to run the project
+
+   4.1 Open the terminal and change the directory to hello-world
+
+   4.2 Run the command follwowing command
+
+         npm start
+
+         For Example :   E:\temporary\hello-world>npm start 
+   
 
